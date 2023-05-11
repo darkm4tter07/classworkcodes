@@ -8,7 +8,8 @@ int fib(int n){
 }
 
 int main(){
-	int j=7;
+	int j;
+	scanf(" %d",&j);
 	printf("%d \n", fib(j));
 }
 
