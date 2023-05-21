@@ -1,5 +1,6 @@
 #include <stdio.h>
 //this is a comment
+//this is another comment
 
 int fib(int n){
 	if(n<2)
