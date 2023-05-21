@@ -14,5 +14,5 @@ on:
       steps:
         - uses: actions/checkout@v2
         - name: hello world
-          run: echo "Hello World"
-          shell: bash
+        - run: echo "Hello World"
+        - shell: bash
